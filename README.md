@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tousif Tasrik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="left" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tousif644&label=Profile%20views&color=0e75b6&style=flat" alt="tousif644" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tousif644" alt="tousif644" /></a> </p>
