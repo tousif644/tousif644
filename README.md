@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tousif Tasrik</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<h3 align="center">A passionate frontend developer from Bangladesh <img align="right" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /></h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tousif644&label=Profile%20views&color=0e75b6&style=flat" alt="tousif644" /> </p>
 
