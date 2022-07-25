@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tousif644" alt="tousif644" /></a> </p>
 
-- 🔭 I’m currently working on **Air CnC Clone**
+- 🔭 I’m currently working on **Clean Co**
 
 - 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on **WhatsApp**
 
 - 🤝 I’m looking for help with **Redux**
-
-- 👨‍💻 All of my projects are available at [https://tousif644.github.io/Personal_Final/](https://tousif644.github.io/Personal_Final/)
 
 - 💬 Ask me about **MERN STACK**
 
