@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tousif644&label=Profile%20views&color=0e75b6&style=flat" alt="tousif644" /> </p>
 
-# আমি তাওসিফ তাসরিক
+# Hi, I am Tousif Tasrik 😃
 
-## 🛠 দক্ষতা
+## 🛠 SKILL
 STACK: MERN STACK 
 
 DESIGN:Tailwind Css, DaisyUi, BootStrap
@@ -14,8 +14,8 @@ Authentication: Firebase
 Optional ( UI/UX ) : Figma
 
 
-## 😇 আমার সম্পর্কে 
-আসসালামু আলাইকুম। আমি তাওসিফ তাসরিক । আমি বর্তমানে ড.মালিকা কলেজ এর বিজ্ঞান বিভাগের ২য় বর্ষের ছাত্র । আমি একজন সৃজনশীল ডেভেলপার, আমি নিত্যনতুন কিছু তৈরি করতে ভালোবাসি । নিজের দক্ষতাকে আরোও একধাপ এগিয়ে নিয়ে যেতে নিত্যনতুন শেখার পাশাপাশি নিত্যনতুন এপ্লিকেশন তৈরিতে অসম্ভব ভালো লাগে । 
+## 😇 ABOUT ME
+Assalamu Alaikum. I am Tousif Tasrik. I am currently a 2nd year student of science department of Dr. Malika College. I am a creative developer, I love to create something new. I love to take my creativity one step further and create new applications while learning new things all the time.
 <p>
       <img
         align="center"
