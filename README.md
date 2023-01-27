@@ -1,11 +1,3 @@
-<style>
-      @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
-
-body {
-    font-family: 'Hind Siliguri', sans-serif;
-}
-
-      </style>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tousif644&label=Profile%20views&color=0e75b6&style=flat" alt="tousif644" /> </p>
