@@ -22,4 +22,4 @@ Optional ( UI/UX ) : Figma
         src="https://github-readme-streak-stats.herokuapp.com/?user=tousif644&"
         alt="tousif644"
       />
-    </p>;
+    </p>
