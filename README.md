@@ -23,4 +23,4 @@ Optional ( UI/UX ) : Figma
         alt="tousif644"
       />
     </p>
-*Certified Mern Stack Developer -> <a href="https://drive.google.com/file/d/10hnn_RT3F-Mx0jgk_Wl_VAWjx-nej4gN/view?usp=sharing">
+***Certified Mern Stack Developer -><a href="https://drive.google.com/file/d/10hnn_RT3F-Mx0jgk_Wl_VAWjx-nej4gN/view?usp=sharing"></a>
