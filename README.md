@@ -13,7 +13,7 @@ Optional ( UI/UX ) : Figma
 
 
 ## 😇 ABOUT ME
-Assalamu Alaikum. I am Tousif Tasrik. I am currently a 2nd year student of science department of Dr. Malika College. I am a creative developer, I love to create something new. I love to take my creativity one step further and create new applications while learning new things all the time.
+Assalamu Alaikum. I am Tousif Tasrik. I am currently a 2nd year student of science group of Dr. Maleka College. I am a creative developer, I love to create something new. I love to take my creativity one step further and create new applications while learning new things all the time.
 <p>
       <img
         align="center"
